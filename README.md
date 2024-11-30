@@ -1,4 +1,4 @@
-# Continuous Integration for Arithmetic Operations Using GitHub Actions
+# Continuous Integration(CI) for a simple Python application Using GitHub Actions
 
 # GitHub Actions for Testing a Simple Math Operations Project
 
