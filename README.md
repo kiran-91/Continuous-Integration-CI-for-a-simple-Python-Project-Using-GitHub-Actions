@@ -36,7 +36,7 @@ The repository is organized as follows:
 
 ## GitHub Actions Workflow
 
-This project uses GitHub Actions to automate testing whenever there are changes pushed to the repository. The workflow file (`.github/workflows/python-tests.yml`) ensures continuous integration by running tests on each push or pull request.
+This project uses GitHub Actions to automate testing whenever there are changes pushed to the repository. The workflow file (`.github/workflows/python-tests.yaml`) ensures continuous integration by running tests on each push or pull request.
 
 ### Workflow Overview
 
